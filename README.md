@@ -21,5 +21,5 @@ Sample usage (as root):
 
 # Important Notice:
 This Script was written before the release of Jellyfin version 9.11.
-It is possible this script will not with versions >= 9.11.
+It is possible this script will not work with versions >= 9.11.
 
