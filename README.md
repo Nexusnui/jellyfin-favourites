@@ -1,5 +1,4 @@
 # jellyfin-favourites
-
 An extremely simple python script to import audio favourites from users in jellyfin and create m3u playlists.
 
 This will create m3u files for each user in jellyfin, containing all the audio files they have marked as a favourite.
